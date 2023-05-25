@@ -1,5 +1,5 @@
 <p>
-"<p align="center" ><img src="https://i.ibb.co/Y73M72Z/README-ASCII.png" alt="README-ASCII" border="0">
+"<p align="center" ><img src="c" alt="README-ASCII" border="0">
 </p>
 
 <h1 align="center">Mid-Painel (BETA)</h1>
@@ -31,14 +31,14 @@ Os que não estão, é porque ainda estão em desenvolvimento...
 
 - [x] Consulta de CEP
 - [x] Consulta de CNPJ
-- [ ] Consulta de CRM
-- [ ] Consulta de CNS
+- [x] Consulta de CRM
+- [x] Consulta de CNS
 - [x] Consulta de CPF
-- [ ] Consulta de BIN
+- [x] Consulta de BIN
 - [x] Consulta de Nome
 - [x] Consulta de Nome da mãe
-- [ ] Consulta de Número
-- [ ] Consulta de Email
+- [x] Consulta de Número
+- [x] Consulta de Email
 - [x] Consulta de Placa
 - [x] Geolocalizador de IP
 
